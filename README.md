@@ -1,7 +1,7 @@
 # Kafka Streams vs TypeStream
 
-A little companion repo for the article [Kafka Streams vs
-TypeStream](https://lucapette.me/writing/kafka-streams-vs-typestream).
+A little companion repo for the article [[Kafka Streams vs
+TypeStream](https://lucapette.me/writing/kafka-streams-vs-typestream)](https://lucapette.me/writing/a-comparative-analysis-of-kafka-streams-and-typestream/).
 
 ## License
 
